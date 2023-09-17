@@ -17,7 +17,7 @@ We've added a new color theme called "Bard" to the project, built on top of the 
 2. Clone this theme and the Bard color theme repositories to your computer:
 
 ```bash
-   git clone https://github.com/WoXy-Sensei/bard-spicetify
+git clone https://github.com/WoXy-Sensei/bard-spicetify
 ```
 
 3. Add the themes to Spicetify:
