@@ -40,7 +40,7 @@ spicetify apply
 Restart the Spotify desktop client, and enjoy the Catppuccin theme and the Bard color theme!
 
 ## Screenshots
-[theme1](https://imgur.com/ZGHkuLg)
+[theme1](https://i.imgur.com/ZGHkuLg_d.webp?maxwidth=760&fidelity=grand)
 [theme2](https://imgur.com/KWQ10GC)
 [theme3](https://imgur.com/qD4pYPw)
 
